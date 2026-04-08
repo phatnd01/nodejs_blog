@@ -1,21 +1,21 @@
 @use "variables" as *;
 
-// .test {
-//     color: $red-color;
-// }
+.test {
+    color: $red-color;
+}
 
-// header {
-//     h1 {
-//         color: $red-color;
-//     }
-// }
+header {
+    h1 {
+        color: $red-color;
+    }
+}
 
-// div h1 {
-//     color: $yellow-color;
-// }
+div h1 {
+    color: $yellow-color;
+}
 
-// footer {
-//     h1 {
-//         color: $green-color;
-//     }
-// }
+footer {
+    h1 {
+        color: $green-color;
+    }
+}
